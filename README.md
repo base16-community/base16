@@ -4,13 +4,13 @@ An architecture for building themes based on carefully chosen syntax highlightin
 
 ## Documentation
 
-* [Styling Guidelines](https://github.com/chriskempson/base16/blob/master/styling.md)
-* [Builder Guidelines](https://github.com/chriskempson/base16/blob/master/builder.md)
-* [File Guidelines](https://github.com/chriskempson/base16/blob/master/file.md)
+* [Styling Guidelines](styling.md)
+* [Builder Guidelines](builder.md)
+* [File Guidelines](file.md)
 
 ## Template Repositories
 
-To add your own template, submit a pull request to https://github.com/chriskempson/base16-templates-source and add your repository to the list below. **Repository naming scheme: base16-[template-name]** (with dashes as separators).
+To add your own template, submit a pull request to https://github.com/base16-community/base16-templates-source and add your repository to the list below. **Repository naming scheme: base16-[template-name]** (with dashes as separators).
 
 * [Alacritty](https://github.com/aaron-williamson/base16-alacritty) maintained by [aaron-williamson](https://github.com/aaron-williamson)
 * [Binary Ninja](https://github.com/evanrichter/base16-binary-ninja) maintained by [evanrichter](https://github.com/evanrichter)
@@ -67,7 +67,7 @@ To add your own template, submit a pull request to https://github.com/chriskemps
 
 ## Scheme Repositories
 
-To add your own scheme, submit a pull request to https://github.com/chriskempson/base16-schemes-source and add your repository to the list below. **Repository naming scheme: base16-[scheme-name]-scheme** (with dashes as separators).
+To add your own scheme, submit a pull request to https://github.com/base16-community/base16-schemes-source and add your repository to the list below. **Repository naming scheme: base16-[scheme-name]-scheme** (with dashes as separators).
 
 * [Atelier](https://github.com/atelierbram/base16-atelier-schemes) maintained by [atelierbram](https://github.com/atelierbram)
 * [Atlas](https://github.com/ajlende/base16-atlas-scheme) maintained by [ajlende](https://github.com/ajlende)
@@ -152,4 +152,3 @@ The following is a list of useful resources for anyone creating a Base16 scheme 
 * [Harmonic16](http://janniks.github.io/harmonic16) - A color generator for harmonic Base16 color-schemes.
 * [Duotone-base16](https://github.com/davidosomething/duotone-base16/) - A Duotone scheme to Base16 convertor.
 * [terminal.sexy](https://terminal.sexy/) - Terminal Color Scheme Designer
-

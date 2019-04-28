@@ -35,7 +35,7 @@ A builder should provide the following variables to a template file:
 - `base00-dec-b` to `base0F-dec-b` - converted from the rgb value in the scheme file e.g "0.21..."
 
 ## Code Structure
-There is no outline for a recommended code structure that a base16 theme builder should follow but a design goal should be to keep the application as simple as possible providing only the functionality described in this document. If you feel you have a great idea for additional functionality please raise an issue in the [base16 repository](https://github.com/chriskempson/base16).
+There is no outline for a recommended code structure that a base16 theme builder should follow but a design goal should be to keep the application as simple as possible providing only the functionality described in this document. If you feel you have a great idea for additional functionality please raise an issue in the [base16 repository](https://github.com/base16-community/base16).
 
 ## Considerations
 Mustache was chosen as the templating language due to its simplicity and widespread adoption across languages. YAML was chosen to describe scheme and configuration files for the same reasons.
